@@ -1,0 +1,905 @@
+{
+  "light": {
+    "brk": {
+      "button-primary-backgroundColor": {
+        "value": "#fdfe8b",
+        "type": "color",
+        "description": "Couleur du fond du bouton primaire."
+      },
+      "button-primary-borderColor": {
+        "value": "#192872",
+        "type": "color",
+        "description": "Couleur de la bordure du bouton primaire."
+      },
+      "button-secondary-borderColor": {
+        "value": "#192872",
+        "type": "color",
+        "description": "Couleur de la bordure du bouton secondaire."
+      },
+      "button-secondary-backgroundColor": {
+        "value": "#a6ecff",
+        "type": "color",
+        "description": "Couleur du fond du bouton secondaire."
+      },
+      "card-backgroundColor": {
+        "value": "#a6ecff",
+        "type": "color",
+        "description": "Couleur du fond des cartes."
+      },
+      "heading-fontColor": {
+        "value": "#192872",
+        "type": "color",
+        "description": "Couleur des gros titres."
+      },
+      "logo-backgroundColor": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Couleur de fond du logo LQ."
+      },
+      "logo-color": {
+        "value": "#192872",
+        "type": "color",
+        "description": "Couleur du logo LQ."
+      },
+      "title-fontColor": {
+        "value": "#192872",
+        "type": "color",
+        "description": "Couleur des titres."
+      },
+      "button-primary-labelColor": {
+        "value": "#192872",
+        "type": "color",
+        "description": "Couleur des libellés du bouton primaire."
+      },
+      "button-secondary-labelColor": {
+        "value": "#192872",
+        "type": "color",
+        "description": "Couleur des libellés du bouton secondaire."
+      },
+      "dropShadow-primary": {
+        "color": {
+          "value": "#192872",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        },
+        "x": {
+          "value": "3px",
+          "type": "x"
+        },
+        "y": {
+          "value": "3px",
+          "type": "y"
+        },
+        "blur": {
+          "value": "0",
+          "type": "blur"
+        },
+        "spread": {
+          "value": "0",
+          "type": "spread"
+        }
+      },
+      "dropShadow-secondary": {
+        "color": {
+          "value": "#192872",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        },
+        "x": {
+          "value": "3px",
+          "type": "x"
+        },
+        "y": {
+          "value": "3px",
+          "type": "y"
+        },
+        "blur": {
+          "value": "0",
+          "type": "blur"
+        },
+        "spread": {
+          "value": "0",
+          "type": "spread"
+        }
+      },
+      "borderRadius": {
+        "value": "{borderRadius.medium}",
+        "type": "borderRadius"
+      }
+    },
+    "brk-color-global": {
+      "bleu-loto-quebec-50": {
+        "value": "#192872",
+        "type": "color"
+      },
+      "bleu-loto-quebec-05": {
+        "value": "#f6f9fe",
+        "type": "color"
+      },
+      "noir": {
+        "value": "#000000",
+        "type": "color",
+        "description": "Noir."
+      },
+      "gris-80": {
+        "value": "#323232",
+        "type": "color",
+        "description": "80 % du noir."
+      },
+      "gris-70": {
+        "value": "#505050",
+        "type": "color",
+        "description": "70 % du noir."
+      },
+      "gris-40": {
+        "value": "#bcbcbc",
+        "type": "color",
+        "description": "40 % du noir."
+      },
+      "gris-30": {
+        "value": "#d3d3d3",
+        "type": "color",
+        "description": "30 % du noir."
+      },
+      "gris-20": {
+        "value": "#eaeaea",
+        "type": "color",
+        "description": "20 % du noir."
+      },
+      "gris-10": {
+        "value": "#f4f4f4",
+        "type": "color",
+        "description": "10 % du noir."
+      },
+      "gris-05": {
+        "value": "#fdfdfd",
+        "type": "color",
+        "description": "5 % du noir."
+      },
+      "blanc": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Blanc."
+      }
+    },
+    "brk-color-jel": {
+      "bleu-jel-50": {
+        "value": "#0b5db7",
+        "type": "color",
+        "description": "Bleu des jeux JEL."
+      },
+      "bleu-jel-eclatant-50": {
+        "value": "#24c1ff",
+        "type": "color",
+        "description": "Bleu éclatant JEL."
+      },
+      "bleu-jel-frais-50": {
+        "value": "#a6ecff",
+        "type": "color",
+        "description": "Bleu frais JEL."
+      },
+      "jaune-jel-50": {
+        "value": "#fdfe8b",
+        "type": "color",
+        "description": "Jaune JEL."
+      },
+      "gris-jel-90": {
+        "value": "#0f112e",
+        "type": "color",
+        "description": "90 % du noir JEL."
+      },
+      "gris-jel-50": {
+        "value": "#4f5161",
+        "type": "color",
+        "description": "50 % du noir JEL."
+      },
+      "gris-jel-20": {
+        "value": "#dce2ed",
+        "type": "color",
+        "description": "20 % du noir JEL."
+      }
+    },
+    "brk-color-moj": {
+      "vert-moj-50": {
+        "value": "#c9ff00",
+        "type": "color",
+        "description": "Vert Mise-o-jeux."
+      },
+      "rouge-moj-50": {
+        "value": "#db1f1f",
+        "type": "color",
+        "description": "Rouge Mise-o-jeux."
+      },
+      "rouge-moj-web-50": {
+        "value": "#e41f1f",
+        "type": "color",
+        "description": "Rouge Mise-o-jeux pour le web (accessibilité)."
+      }
+    },
+    "fontFamilies": {
+      "graphik": {
+        "value": "Graphik",
+        "type": "fontFamilies"
+      },
+      "courier-new": {
+        "value": "Courier New",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "14px",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "graphik-0": {
+        "value": "Super",
+        "type": "fontWeights"
+      },
+      "graphik-1": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "graphik-2": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "courier-new-3": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "10px",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "13px",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "16px",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "32px",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "-2%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "textes-test": {
+      "heading": {
+        "fontFamily": {
+          "value": "$fontFamilies.graphik",
+          "type": "fontFamily"
+        },
+        "fontWeight": {
+          "value": "$fontWeights.graphik-0",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "$lineHeights.0",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": "$fontSize.3",
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "$letterSpacing.0",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.0",
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "$textCase.none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "$textDecoration.none",
+          "type": "textDecoration"
+        }
+      },
+      "title": {
+        "fontFamily": {
+          "value": "$fontFamilies.graphik",
+          "type": "fontFamily"
+        },
+        "fontWeight": {
+          "value": "$fontWeights.graphik-1",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "$lineHeights.0",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": "$fontSize.2",
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "$letterSpacing.0",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.0",
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "$textCase.none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "$textDecoration.none",
+          "type": "textDecoration"
+        }
+      },
+      "label": {
+        "fontFamily": {
+          "value": "$fontFamilies.graphik",
+          "type": "fontFamily"
+        },
+        "fontWeight": {
+          "value": "$fontWeights.graphik-2",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "$lineHeights.0",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": "$fontSize.1",
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "$letterSpacing.0",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.0",
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "$textCase.none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "$textDecoration.none",
+          "type": "textDecoration"
+        }
+      }
+    },
+    "doc-baraka": {
+      "code": {
+        "fontFamily": {
+          "value": "$fontFamilies.courier-new",
+          "type": "fontFamily"
+        },
+        "fontWeight": {
+          "value": "$fontWeights.courier-new-3",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "$lineHeights.0",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": "$fontSize.0",
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "$letterSpacing.0",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.0",
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "$textCase.none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "$textDecoration.none",
+          "type": "textDecoration"
+        }
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "borderRadius": {
+      "medium": {
+        "value": "24px",
+        "type": "borderRadius"
+      },
+      "none": {
+        "value": "0",
+        "type": "borderRadius",
+        "description": "Coins carrés"
+      }
+    }
+  },
+  "dark": {
+    "brk": {
+      "button-primary-backgroundColor": {
+        "value": "{brk-color-jel.jaune-jel-50}",
+        "description": "Couleur du fond du bouton primaire.",
+        "type": "color"
+      },
+      "button-primary-borderColor": {
+        "value": "{brk-color-jel.bleu-jel-50}",
+        "description": "Couleur de la bordure du bouton primaire.",
+        "type": "color"
+      },
+      "button-secondary-borderColor": {
+        "value": "{brk-color-global.blanc}",
+        "description": "Couleur de la bordure du bouton secondaire.",
+        "type": "color"
+      },
+      "button-secondary-backgroundColor": {
+        "value": "{brk-color-global.bleu-loto-quebec-50}",
+        "description": "Couleur du fond du bouton secondaire.",
+        "type": "color"
+      },
+      "card-backgroundColor": {
+        "value": "{brk-color-global.bleu-loto-quebec-50}",
+        "description": "Couleur du fond des cartes.",
+        "type": "color"
+      },
+      "heading-fontColor": {
+        "value": "{brk-color-global.blanc}",
+        "description": "Couleur des gros titres.",
+        "type": "color"
+      },
+      "logo-backgroundColor": {
+        "value": "{brk-color-global.blanc}",
+        "description": "Couleur de fond du logo LQ.",
+        "type": "color"
+      },
+      "logo-color": {
+        "value": "{brk-color-global.bleu-loto-quebec-50}",
+        "description": "Couleur du logo LQ.",
+        "type": "color"
+      },
+      "title-fontColor": {
+        "value": "{brk-color-global.blanc}",
+        "description": "Couleur des titres.",
+        "type": "color"
+      },
+      "button-primary-labelColor": {
+        "value": "{brk-color-jel.bleu-jel-50}",
+        "description": "Couleur des libellés du bouton primaire.",
+        "type": "color"
+      },
+      "button-secondary-labelColor": {
+        "value": "{brk-color-global.blanc}",
+        "description": "Couleur des libellés du bouton secondaire.",
+        "type": "color"
+      },
+      "borderRadius": {
+        "value": "{borderRadius.medium}",
+        "description": "Style de coins des éléments.",
+        "type": "borderRadius"
+      },
+      "dropShadow-primary": {
+        "x": {
+          "value": "3px",
+          "type": "x"
+        },
+        "y": {
+          "value": "3px",
+          "type": "y"
+        },
+        "blur": {
+          "value": "0",
+          "type": "blur"
+        },
+        "spread": {
+          "value": "0",
+          "type": "spread"
+        },
+        "color": {
+          "value": "{brk.button-primary-labelColor}",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        }
+      },
+      "dropShadow-secondary": {
+        "x": {
+          "value": "3px",
+          "type": "x"
+        },
+        "y": {
+          "value": "3px",
+          "type": "y"
+        },
+        "blur": {
+          "value": "0",
+          "type": "blur"
+        },
+        "spread": {
+          "value": "0",
+          "type": "spread"
+        },
+        "color": {
+          "value": "{brk.button-secondary-labelColor}",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        }
+      }
+    },
+    "brk-color-global": {
+      "bleu-loto-quebec-50": {
+        "value": "#192872",
+        "type": "color"
+      },
+      "bleu-loto-quebec-05": {
+        "value": "#f6f9fe",
+        "type": "color"
+      },
+      "noir": {
+        "value": "#000000",
+        "type": "color",
+        "description": "Noir."
+      },
+      "gris-80": {
+        "value": "#323232",
+        "type": "color",
+        "description": "80 % du noir."
+      },
+      "gris-70": {
+        "value": "#505050",
+        "type": "color",
+        "description": "70 % du noir."
+      },
+      "gris-40": {
+        "value": "#bcbcbc",
+        "type": "color",
+        "description": "40 % du noir."
+      },
+      "gris-30": {
+        "value": "#d3d3d3",
+        "type": "color",
+        "description": "30 % du noir."
+      },
+      "gris-20": {
+        "value": "#eaeaea",
+        "type": "color",
+        "description": "20 % du noir."
+      },
+      "gris-10": {
+        "value": "#f4f4f4",
+        "type": "color",
+        "description": "10 % du noir."
+      },
+      "gris-05": {
+        "value": "#fdfdfd",
+        "type": "color",
+        "description": "5 % du noir."
+      },
+      "blanc": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Blanc."
+      }
+    },
+    "brk-color-jel": {
+      "bleu-jel-50": {
+        "value": "#0b5db7",
+        "type": "color",
+        "description": "Bleu des jeux JEL."
+      },
+      "bleu-jel-eclatant-50": {
+        "value": "#24c1ff",
+        "type": "color",
+        "description": "Bleu éclatant JEL."
+      },
+      "bleu-jel-frais-50": {
+        "value": "#a6ecff",
+        "type": "color",
+        "description": "Bleu frais JEL."
+      },
+      "jaune-jel-50": {
+        "value": "#fdfe8b",
+        "type": "color",
+        "description": "Jaune JEL."
+      },
+      "gris-jel-90": {
+        "value": "#0f112e",
+        "type": "color",
+        "description": "90 % du noir JEL."
+      },
+      "gris-jel-50": {
+        "value": "#4f5161",
+        "type": "color",
+        "description": "50 % du noir JEL."
+      },
+      "gris-jel-20": {
+        "value": "#dce2ed",
+        "type": "color",
+        "description": "20 % du noir JEL."
+      }
+    },
+    "brk-color-moj": {
+      "vert-moj-50": {
+        "value": "#c9ff00",
+        "type": "color",
+        "description": "Vert Mise-o-jeux."
+      },
+      "rouge-moj-50": {
+        "value": "#db1f1f",
+        "type": "color",
+        "description": "Rouge Mise-o-jeux."
+      },
+      "rouge-moj-web-50": {
+        "value": "#e41f1f",
+        "type": "color",
+        "description": "Rouge Mise-o-jeux pour le web (accessibilité)."
+      }
+    },
+    "fontFamilies": {
+      "graphik": {
+        "value": "Graphik",
+        "type": "fontFamilies"
+      },
+      "courier-new": {
+        "value": "Courier New",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "14px",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "graphik-0": {
+        "value": "Super",
+        "type": "fontWeights"
+      },
+      "graphik-1": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "graphik-2": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "courier-new-3": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "10px",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "13px",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "16px",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "32px",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "-2%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "textes-test": {
+      "heading": {
+        "fontFamily": {
+          "value": "$fontFamilies.graphik",
+          "type": "fontFamily"
+        },
+        "fontWeight": {
+          "value": "$fontWeights.graphik-0",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "$lineHeights.0",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": "$fontSize.3",
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "$letterSpacing.0",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.0",
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "$textCase.none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "$textDecoration.none",
+          "type": "textDecoration"
+        }
+      },
+      "title": {
+        "fontFamily": {
+          "value": "$fontFamilies.graphik",
+          "type": "fontFamily"
+        },
+        "fontWeight": {
+          "value": "$fontWeights.graphik-1",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "$lineHeights.0",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": "$fontSize.2",
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "$letterSpacing.0",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.0",
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "$textCase.none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "$textDecoration.none",
+          "type": "textDecoration"
+        }
+      },
+      "label": {
+        "fontFamily": {
+          "value": "$fontFamilies.graphik",
+          "type": "fontFamily"
+        },
+        "fontWeight": {
+          "value": "$fontWeights.graphik-2",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "$lineHeights.0",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": "$fontSize.1",
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "$letterSpacing.0",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.0",
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "$textCase.none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "$textDecoration.none",
+          "type": "textDecoration"
+        }
+      }
+    },
+    "doc-baraka": {
+      "code": {
+        "fontFamily": {
+          "value": "$fontFamilies.courier-new",
+          "type": "fontFamily"
+        },
+        "fontWeight": {
+          "value": "$fontWeights.courier-new-3",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "$lineHeights.0",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": "$fontSize.0",
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "$letterSpacing.0",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.0",
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "$textCase.none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "$textDecoration.none",
+          "type": "textDecoration"
+        }
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "borderRadius": {
+      "medium": {
+        "value": "24px",
+        "type": "borderRadius"
+      },
+      "none": {
+        "value": "0",
+        "type": "borderRadius",
+        "description": "Coins carrés"
+      }
+    }
+  }
+}

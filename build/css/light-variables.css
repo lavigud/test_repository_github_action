@@ -1,0 +1,80 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 09 May 2022 20:07:55 GMT
+ */
+
+:root {
+  --brk-button-primary-background-color: #fdfe8b;
+  --brk-button-primary-border-color: #192872;
+  --brk-button-secondary-border-color: #192872;
+  --brk-button-secondary-background-color: #a6ecff;
+  --brk-card-background-color: #a6ecff;
+  --brk-heading-font-color: #192872;
+  --brk-logo-background-color: #ffffff;
+  --brk-logo-color: #192872;
+  --brk-title-font-color: #192872;
+  --brk-button-primary-label-color: #192872;
+  --brk-button-secondary-label-color: #192872;
+  --brk-drop-shadow-primary: 3px 3px 0 0 #192872;
+  --brk-drop-shadow-secondary: 3px 3px 0 0 #192872;
+  --brk-border-radius: 24px;
+  --brk-color-global-bleu-loto-quebec-50: #192872;
+  --brk-color-global-bleu-loto-quebec-05: #f6f9fe;
+  --brk-color-global-noir: #000000;
+  --brk-color-global-gris-80: #323232;
+  --brk-color-global-gris-70: #505050;
+  --brk-color-global-gris-40: #BCBCBC;
+  --brk-color-global-gris-30: #D3D3D3;
+  --brk-color-global-gris-20: #eaeaea;
+  --brk-color-global-gris-10: #f4f4f4;
+  --brk-color-global-gris-05: #fdfdfd;
+  --brk-color-global-blanc: #ffffff;
+  --brk-color-moj-vert-moj-50: #c9ff00;
+  --brk-color-moj-rouge-moj-50: #db1f1f;
+  --brk-color-moj-rouge-moj-web-50: #e41f1f;
+  --brk-color-jel-bleu-jel-50: #0b5db7;
+  --brk-color-jel-bleu-jel-eclatant-50: #24c1ff;
+  --brk-color-jel-bleu-jel-frais-50: #a6ecff;
+  --brk-color-jel-jaune-jel-50: #fdfe8b;
+  --brk-color-jel-gris-jel-90: #0f112e;
+  --brk-color-jel-gris-jel-50: #4f5161;
+  --brk-color-jel-gris-jel-20: #dce2ed;
+  --font-families-graphik: Graphik;
+  --line-heights-0: 14px;
+  --font-weights-super: Super;
+  --font-weights-regular: Regular;
+  --font-weights-medium: Medium;
+  --font-size-small: 13px;
+  --font-size-medium: 16px;
+  --font-size-large: 32px;
+  --letter-spacing-0: -2%;
+  --paragraph-spacing-0: 0px;
+  --textes-test-heading-font-family: Graphik;
+  --textes-test-heading-font-weight: Super;
+  --textes-test-heading-line-height: 14px;
+  --textes-test-heading-font-size: 32px;
+  --textes-test-heading-letter-spacing: -2%;
+  --textes-test-heading-paragraph-spacing: 0px;
+  --textes-test-heading-text-case: none;
+  --textes-test-heading-text-decoration: none;
+  --textes-test-title-font-family: Graphik;
+  --textes-test-title-font-weight: Regular;
+  --textes-test-title-line-height: 14px;
+  --textes-test-title-font-size: 16px;
+  --textes-test-title-letter-spacing: -2%;
+  --textes-test-title-paragraph-spacing: 0px;
+  --textes-test-title-text-case: none;
+  --textes-test-title-text-decoration: none;
+  --textes-test-label-font-family: Graphik;
+  --textes-test-label-font-weight: Medium;
+  --textes-test-label-line-height: 14px;
+  --textes-test-label-font-size: 13px;
+  --textes-test-label-letter-spacing: -2%;
+  --textes-test-label-paragraph-spacing: 0px;
+  --textes-test-label-text-case: none;
+  --textes-test-label-text-decoration: none;
+  --text-case-none: none;
+  --text-decoration-none: none;
+  --border-radius-none: 0px;
+  --border-radius-medium: 24px;
+}

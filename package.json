@@ -1,0 +1,16 @@
+{
+  "name": "style-dictionnary",
+  "devDependencies": {
+    "style-dictionary": "^3.7.0",
+    "token-transformer": "0.0.17"
+  },
+  "dependencies": {
+    "copyfiles": "^2.4.1"
+  },
+  "scripts": {
+    "build": "token-transformer figma-sync/tokens.json transformer-output/light.json global,light --expandTypography=true && token-transformer figma-sync/tokens.json transformer-output/dark.json global,dark --expandTypography=true && token-transformer figma-sync/tokens.json transformer-output/global.json global --expandTypography=true && node build.js",
+    "copy-tokens": "copyfiles -u 1 build/*/** ../ds-tokens-test/tokens",
+    "copy-tokens-ios": "copyfiles -u 1 build/*/**/*** ../ds-tokens-test/tokens",
+    "build-copy": "npm run build && npm run copy-tokens && npm run copy-tokens-ios"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "brk-cad-opt": {
+    "color-1": {
+      "value": "#bb4fe5",
+      "type": "color"
+    },
+    "color-2": {
+      "value": "#00629b",
+      "type": "color"
+    },
+    "color-3": {
+      "value": "#008264",
+      "type": "color"
+    },
+    "color-4": {
+      "value": "#cc8a00",
+      "type": "color"
+    },
+    "color-5": {
+      "value": "#c8102e",
+      "type": "color"
+    },
+    "color-6": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "La couleur la plus claire de l'interface."
+    },
+    "color-7": {
+      "value": "#f2f7fc",
+      "type": "color"
+    },
+    "color-8": {
+      "value": "#dce2ed",
+      "type": "color"
+    },
+    "color-9": {
+      "value": "#000000",
+      "type": "color",
+      "description": "La couleur la plus sombre de l'interface."
+    },
+    "none": {
+      "value": "0px",
+      "description": "Coins carrés.",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "16px",
+      "description": "Rayon de bordure petit, à utiliser pour les cartes de jeu et les boutons.",
+      "type": "borderRadius"
+    },
+    "medium": {
+      "value": "25px",
+      "description": "Rayon de bordure moyen.",
+      "type": "borderRadius"
+    }
+  },
+  "fontFamilies": {
+    "graphik": {
+      "value": "Graphik, Arial",
+      "type": "fontFamilies"
+    }
+  },
+  "brk-com": {
+    "card-color": {
+      "value": "#000000",
+      "description": "La couleur de fond des cartes.",
+      "type": "color"
+    },
+    "bg-color": {
+      "value": "linear-gradient(45deg, #bb4fe5 0%, #000000 50%, #00629b 100%)",
+      "description": "La couleur de fond du fond.",
+      "type": "color"
+    },
+    "button-cta-color": {
+      "value": "#ffffff",
+      "description": "La couleur de bouton CTA.",
+      "type": "color"
+    },
+    "card-stroke": {
+      "value": "#bb4fe5",
+      "description": "La couleur de contour des cartes.",
+      "type": "color"
+    },
+    "button-cta-stroke": {
+      "value": "#ffffff",
+      "description": "La couleur de contour du bouton CTA.",
+      "type": "color"
+    },
+    "card-display-1-color": {
+      "value": "#ffffff",
+      "description": "La couleur du titre principal des cartes.",
+      "type": "color"
+    },
+    "card-display-2-color": {
+      "value": "#ffffff",
+      "description": "La couleur du surtitre des cartes.",
+      "type": "color"
+    },
+    "button-cta-text-color": {
+      "value": "#000000",
+      "description": "La couleur du surtitre des cartes.",
+      "type": "color"
+    },
+    "card-borderRadius": {
+      "value": "0px",
+      "description": "Rayon de bordure des cartes petit.",
+      "type": "borderRadius"
+    },
+    "boxShadow": {
+      "value": {
+        "x": "0px",
+        "y": "0px",
+        "blur": 20,
+        "spread": 5,
+        "color": "#bb4fe5",
+        "type": "dropShadow"
+      },
+      "description": "Pas d'ombre portée.",
+      "type": "boxShadow"
+    },
+    "card-borderWidth": {
+      "value": "2px",
+      "description": "Contour des cartes.",
+      "type": "borderWidth"
+    },
+    "lineHeights": {
+      "0": {
+        "value": "22px",
+        "type": "lineHeights"
+      },
+      "1": {
+        "value": "14px",
+        "type": "lineHeights"
+      },
+      "2": {
+        "value": "16px",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "graphik-0": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "graphik-1": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "graphik-2": {
+        "value": "Super",
+        "type": "fontWeights"
+      },
+      "graphik-3": {
+        "value": "Black",
+        "type": "fontWeights"
+      },
+      "graphik-4": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "12px",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "13px",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "14px",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "16px",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "20px",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "-2%",
+        "type": "letterSpacing"
+      },
+      "1": {
+        "value": "0%",
+        "type": "letterSpacing"
+      }
+    }
+  }
+}

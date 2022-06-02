@@ -1,0 +1,93 @@
+{
+  "brk-bin-opt": {
+    "color1": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "color2": {
+      "value": "#d11c5b",
+      "type": "color"
+    },
+    "color3": {
+      "value": "#F391BC",
+      "type": "color"
+    },
+    "color4": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "color5": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "color6": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "color7": {
+      "value": "#f2f7fc",
+      "type": "color"
+    },
+    "color8": {
+      "value": "#dce2ed",
+      "type": "color"
+    },
+    "color9": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "none": {
+      "value": "0px",
+      "description": "pas de radius",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "16px",
+      "description": "petit",
+      "type": "borderRadius"
+    },
+    "medium": {
+      "value": "24px",
+      "description": "rayon de bordure moyen",
+      "type": "borderRadius"
+    }
+  },
+  "brk-com": {
+    "card-color": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "bg-color": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "button-cta-color": {
+      "value": "#F391BC",
+      "type": "color"
+    },
+    "card-stroke": {
+      "value": "#dce2ed",
+      "type": "color"
+    },
+    "button-cta-stroke": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "card-display-1-color": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "card-display-2-color": {
+      "value": "#d11c5b",
+      "type": "color"
+    },
+    "button-cta-text-color": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "card-borderRadius": {
+      "value": "24px",
+      "type": "borderRadius"
+    }
+  }
+}
