@@ -35,7 +35,7 @@ jobs:
           source-directory: 'build'
           destination-github-username: 'lavigud'
           destination-repository-name: 'test_repository_github_action'
-          target-directory: 'transformer_output'
+          target-directory: 'transformer-output'
           user-email: david.lavigueur@loto-quebec.com
           target-branch: dev
           commit-message: '[MAJ_Auto] Depuis Figma via SD'
