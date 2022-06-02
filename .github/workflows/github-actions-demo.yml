@@ -33,9 +33,9 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source-directory: 'build'
-          destination-github-username: 'arthur-loto'
-          destination-repository-name: 'brk-test1-tokens-to-npm'
+          destination-github-username: 'lavigud'
+          destination-repository-name: 'test_repository_github_action'
           target-directory: 'mes_tokens'
-          user-email: arthur.rigaud@loto-quebec.com
+          user-email: david.lavigueur@loto-quebec.com
           target-branch: dev
           commit-message: '[MAJ_Auto] Depuis Figma via SD'
